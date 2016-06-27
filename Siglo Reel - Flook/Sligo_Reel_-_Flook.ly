@@ -5,7 +5,7 @@
  \language "english"
 
 \header {
-  title = "Siglo Reel"
+  title = "Sligo Reel"
 }
 
 music = \relative c' {
