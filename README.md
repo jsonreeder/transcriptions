@@ -11,4 +11,4 @@ http://creativecommons.org/licenses/by-sa/3.0/
 The PDF files in this repository are included for convenience,
 but may be regenerated at any time from the Lilypond sources. 
 
-Thanks to [Rosuav](https://github.com/Rosuav/Hymns) for the inspiration to use LilyPond.
+Thanks to [Rosuav](https://github.com/Rosuav) for the inspiration to use LilyPond.
