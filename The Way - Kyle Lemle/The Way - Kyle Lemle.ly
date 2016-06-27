@@ -16,7 +16,8 @@
     \chordmode {
       \bar ".|"
       \mark \markup {\bold {\box verse} }
-         fs1:m7 b:9 fs:m7 b:9 a g:69 \break
+         fs1:m7 b:9 fs:m7 b:9 \break
+         a g:69 g:69 \break
          fs:m e d e \break
        \mark \markup {\bold {\box pre-chorus} }
        \bar ".|"
@@ -27,11 +28,8 @@
        fs1:m7 fs:m7 g:69 g:69 \break
        d2 e cs:dim7 fs:m d e }
        \alternative { 
-         { a1 \break }
+         { a1 c:m7 \break }
        }
-       % \alternative { 
-        % { a1 \break }
-      % }
        
        \mark \markup {\bold {\box bridge} }
        d1 e d e \break
@@ -48,12 +46,13 @@
     \relative c {
       \improvisationOn
       \numericTimeSignature
-      c4 c c c c c c c c c c c c c c c c c c c c c c c
+      c4 c c c c c c c c c c c c c c c 
+      c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
-      c c c c c c c c c c c c c c c c
+      c c c c c c c c c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
       c c c c c c c c c c c c c c c c
